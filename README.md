@@ -3,7 +3,7 @@
 My name is Michael Gulotta, welcome to my GitHub profile! 
 
 After working for nearly 10 years in Customer Support I decided to make an exciting career pivot into the world of WebDevelopment. 
-Currently I am enrolled in BloomTech's Full-Stack Web Development program and I expect to finish up in September 2023. 
+Currently I am enrolled in BloomTech's Full-Stack Web Development program and I expect to finish up in early 2024. 
 
 I've pinned some of the projects I've worked on over the past few months that I think were either interesting or challenging for me to complete.
 
